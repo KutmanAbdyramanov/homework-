@@ -4,6 +4,9 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 gitignore
 obj/*
+dz2/*
+dz3/*
+dz4/*
 dz1.csproj
 dz2.csproj
 dz3.csproj
